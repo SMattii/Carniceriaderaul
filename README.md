@@ -30,5 +30,3 @@ npm run db:seed
 ```
 
 to add some mockup data
-
-# NOW START WORKING
